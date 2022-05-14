@@ -19,3 +19,5 @@ How to use the app?
 
 Thank you for using this app.
 
+NOTE: GITHUB LINK: https://github.com/james-np1/TODO-APP.git
+
